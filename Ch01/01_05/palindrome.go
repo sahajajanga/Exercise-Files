@@ -24,5 +24,5 @@ func main() {
 		buffer.WriteString(chars[i])
 	}
 	fmt.Println(buffer.String())
-	fmt.Println('Hello Sahaja')
+	fmt.Println("Hello Sahaja")
 }
